@@ -1,0 +1,38 @@
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  font-weight: 500;
+  color: #fff;
+  font-size: 2.4em;
+}
+
+.orange_text {
+  color: #f3c347;
+}
+
+.padding-bottom {
+  margin-bottom: 20px;
+}
+
+#coindesk {
+  font-weight: 300;
+  color: #fff;
+}
+
+#coindesk a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.popup {
+  min-height: 50px;
+}
+
+body {
+  background-color: #28373c;
+}
